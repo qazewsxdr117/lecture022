@@ -7,6 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Lecture022Application {
 
 	public static void main(String[] args) {
+	    
+	    
+	    
+	    
+	    
 		SpringApplication.run(Lecture022Application.class, args);
 	}
 
